@@ -80,6 +80,17 @@ def about(request):
 
     return render(request, 'analyze.html', params)
 
+
+
+
+
+
+
+
+
+
+
+
     #
 
 
